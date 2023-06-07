@@ -61,14 +61,17 @@ The repository is structured as follows:
   - [ ] 18_Final Project
 
 ## Description
+
 In this repository, you will find various projects and exercises related to backend development using Go. These projects cover different concepts and techniques that I have learned during my time at Alterra Academy.
 
 ## How to Use
+
 To explore the contents of this repository, simply navigate through the directories mentioned above. Each directory has its own `README.md` file that provides more information about the contained files and the concepts covered.
 
 Feel free to clone this repository if you find it helpful in your own learning journey. You can also fork it and make your own modifications or additions.
 
 ## Contact
+
 If you have any questions or suggestions regarding this repository, please feel free to reach out to me:
 
 - Name: Yudha Islami Sulistya
