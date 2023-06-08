@@ -13,7 +13,7 @@ The repository is structured as follows:
   - [x] 2_Version Control and Branch Management (Git)
 
 - **Section 4: Basic Programming**
-  - [ ] 3_Basic Programming (Variable - Operator - Logical - Loop - Function)
+  - [x] 3_Basic Programming (Variable - Operator - Logical - Loop - Function)
 
 - **Section 5: Data Structure Go**
   - [ ] 4_Data Structure Go (Array - Slice - Map)
