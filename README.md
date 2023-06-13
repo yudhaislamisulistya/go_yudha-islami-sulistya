@@ -16,7 +16,7 @@ The repository is structured as follows:
   - [x] 3_Basic Programming (Variable - Operator - Logical - Loop - Function)
 
 - **Section 5: Data Structure Go**
-  - [ ] 4_Data Structure Go (Array - Slice - Map)
+  - [x] 4_Data Structure Go (Array - Slice - Map)
 
 - **Section 6: String - Advance Function - Pointer - Heap & Stack - Struct - Method - Interface - Garbage Collector - Package & Error Handling**
   - [ ] 5_String - Advance Function - Pointer - Heap & Stack - Struct - Method - Interface - Garbage Collector - Package & Error Handling
