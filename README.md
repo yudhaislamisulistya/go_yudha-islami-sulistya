@@ -19,10 +19,10 @@ The repository is structured as follows:
   - [x] 4_Data Structure Go (Array - Slice - Map)
 
 - **Section 6: String - Advance Function - Pointer - Heap & Stack - Struct - Method - Interface - Garbage Collector - Package & Error Handling**
-  - [ ] 5_String - Advance Function - Pointer - Heap & Stack - Struct - Method - Interface - Garbage Collector - Package & Error Handling
+  - [x] 5_String - Advance Function - Pointer - Heap & Stack - Struct - Method - Interface - Garbage Collector - Package & Error Handling
 
 - **Section 7: Time Complexity and Space Complexity**
-  - [ ] 6_Time Complexity and Space Complexity
+  - [x] 6_Time Complexity and Space Complexity
 
 - **Section 8: Database: Schema and Data Definition Language**
   - [ ] 7_Database: Schema and Data Definition Language
