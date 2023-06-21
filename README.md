@@ -25,7 +25,7 @@ The repository is structured as follows:
   - [x] 6_Time Complexity and Space Complexity
 
 - **Section 8: Database: Schema and Data Definition Language**
-  - [ ] 7_Database: Schema and Data Definition Language
+  - [x] 7_Database: Schema and Data Definition Language
 
 - **Section 9: Fundamental Rest API and OSI Layer Network**
   - [ ] 8_Fundamental Rest API and OSI Layer Network
