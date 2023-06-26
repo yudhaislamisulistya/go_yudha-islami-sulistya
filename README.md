@@ -34,7 +34,7 @@ The repository is structured as follows:
   - [ ] 9_Basic Framework (Echo) and Alternative Framework
 
 - **Section 11: Connection and Interaction DB and ORM (Gorm) and MVC Architecture**
-  - [ ] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
+  - [x] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
 
 - **Section 12: Middleware (Logging - Authorization - Authentication JWT)**
   - [ ] 11_Middleware (Logging - Authorization - Authentication JWT)
