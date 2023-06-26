@@ -28,7 +28,7 @@ The repository is structured as follows:
   - [ ] 7_Database: Schema and Data Definition Language
 
 - **Section 9: Fundamental Rest API and OSI Layer Network**
-  - [ ] 8_Fundamental Rest API and OSI Layer Network
+  - [x] 8_Fundamental Rest API and OSI Layer Network
 
 - **Section 10: Basic Framework (Echo) and Alternative Framework**
   - [ ] 9_Basic Framework (Echo) and Alternative Framework
