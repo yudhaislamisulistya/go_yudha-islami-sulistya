@@ -37,7 +37,7 @@ The repository is structured as follows:
   - [ ] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
 
 - **Section 12: Middleware (Logging - Authorization - Authentication JWT)**
-  - [ ] 11_Middleware (Logging - Authorization - Authentication JWT)
+  - [x] 11_Middleware (Logging - Authorization - Authentication JWT)
 
 - **Section 13: Unit Test**
   - [ ] 12_Unit Test
