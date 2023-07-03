@@ -40,7 +40,7 @@ The repository is structured as follows:
   - [ ] 11_Middleware (Logging - Authorization - Authentication JWT)
 
 - **Section 13: Unit Test**
-  - [ ] 12_Unit Test
+  - [x] 12_Unit Test
 
 - **Section 14: Clean Architecture**
   - [ ] 13_Clean Architecture
