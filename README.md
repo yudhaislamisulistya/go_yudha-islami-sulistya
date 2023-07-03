@@ -46,7 +46,7 @@ The repository is structured as follows:
   - [ ] 13_Clean Architecture
 
 - **Section 15: Docker Container**
-  - [ ] 14_Docker Container
+  - [x] 14_Docker Container
 
 - **Section 16: Compute Services (AWS)**
   - [ ] 15_Compute Services (AWS)
