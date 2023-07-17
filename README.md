@@ -49,7 +49,7 @@ The repository is structured as follows:
   - [ ] 14_Docker Container
 
 - **Section 16: Compute Services (AWS)**
-  - [ ] 15_Compute Services (AWS)
+  - [x] 15_Compute Services (AWS)
 
 - **Section 17: CI/CD**
   - [ ] 16_CI/CD
