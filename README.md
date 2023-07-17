@@ -52,10 +52,10 @@ The repository is structured as follows:
   - [x] 15_Compute Services (AWS)
 
 - **Section 17: CI/CD**
-  - [ ] 16_CI/CD
+  - [x] 16_CI/CD
 
 - **Section 18: Post-test**
-  - [ ] 17_Post-test
+  - [x] 17_Post-test
 
 - **Section 19: Final Project**
   - [ ] 18_Final Project
