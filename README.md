@@ -58,7 +58,7 @@ The repository is structured as follows:
   - [x] 17_Post-test
 
 - **Section 19: Final Project**
-  - [ ] 18_Final Project
+  - [x] 18_Final Project
 
 ## Description
 
