@@ -25,31 +25,31 @@ The repository is structured as follows:
   - [x] 6_Time Complexity and Space Complexity
 
 - **Section 8: Database: Schema and Data Definition Language**
-  - [ ] 7_Database: Schema and Data Definition Language
+  - [x] 7_Database: Schema and Data Definition Language
 
 - **Section 9: Fundamental Rest API and OSI Layer Network**
-  - [ ] 8_Fundamental Rest API and OSI Layer Network
+  - [x] 8_Fundamental Rest API and OSI Layer Network
 
 - **Section 10: Basic Framework (Echo) and Alternative Framework**
-  - [ ] 9_Basic Framework (Echo) and Alternative Framework
+  - [x] 9_Basic Framework (Echo) and Alternative Framework
 
 - **Section 11: Connection and Interaction DB and ORM (Gorm) and MVC Architecture**
-  - [ ] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
+  - [x] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
 
 - **Section 12: Middleware (Logging - Authorization - Authentication JWT)**
-  - [ ] 11_Middleware (Logging - Authorization - Authentication JWT)
+  - [x] 11_Middleware (Logging - Authorization - Authentication JWT)
 
 - **Section 13: Unit Test**
   - [x] 12_Unit Test
 
 - **Section 14: Clean Architecture**
-  - [ ] 13_Clean Architecture
+  - [x] 13_Clean Architecture
 
 - **Section 15: Docker Container**
-  - [ ] 14_Docker Container
+  - [x] 14_Docker Container
 
 - **Section 16: Compute Services (AWS)**
-  - [ ] 15_Compute Services (AWS)
+  - [x] 15_Compute Services (AWS)
 
 - **Section 17: CI/CD**
   - [ ] 16_CI/CD
