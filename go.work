@@ -1,5 +1,8 @@
 go 1.20
 
 use (
-    ./9_Basic_Framework_Echo_and_Alternative_Framework
+	./12_Unit_Test/12_1_Unit_Testing_Calculations
+	./12_Unit_Test/12_2_Unit_Testing_Project
+	./1_Introduction_Algorithm/Praktikum
+	./9_Basic_Framework_Echo_and_Alternative_Framework
 )
