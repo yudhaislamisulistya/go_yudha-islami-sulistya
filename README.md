@@ -31,7 +31,7 @@ The repository is structured as follows:
   - [x] 8_Fundamental Rest API and OSI Layer Network
 
 - **Section 10: Basic Framework (Echo) and Alternative Framework**
-  - [ ] 9_Basic Framework (Echo) and Alternative Framework
+  - [x] 9_Basic Framework (Echo) and Alternative Framework
 
 - **Section 11: Connection and Interaction DB and ORM (Gorm) and MVC Architecture**
   - [ ] 10_Connection and Interaction DB and ORM (Gorm) and MVC Architecture
