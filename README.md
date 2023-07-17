@@ -43,7 +43,7 @@ The repository is structured as follows:
   - [ ] 12_Unit Test
 
 - **Section 14: Clean Architecture**
-  - [ ] 13_Clean Architecture
+  - [x] 13_Clean Architecture
 
 - **Section 15: Docker Container**
   - [ ] 14_Docker Container
